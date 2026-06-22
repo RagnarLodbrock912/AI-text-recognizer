@@ -1,0 +1,5 @@
+venv/
+data/raw/*.csv
+data/processed/*.csv
+__pycache__/
+Human vs AI Text Classification.pdf
